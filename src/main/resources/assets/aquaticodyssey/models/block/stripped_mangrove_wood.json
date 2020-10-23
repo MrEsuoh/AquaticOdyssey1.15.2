@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "aquaticodyssey:block/stripped_mangrove_log",
+    "side": "aquaticodyssey:block/stripped_mangrove_log"
+  }
+}

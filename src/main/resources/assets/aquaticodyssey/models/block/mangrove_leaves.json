@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "aquaticodyssey:block/mangrove_leaves"
+  }
+}

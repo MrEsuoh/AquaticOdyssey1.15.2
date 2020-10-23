@@ -1,0 +1,32 @@
+{
+  "parent": "aquaticodyssey:recipes/root",
+  "rewards": {
+    "recipes": [
+      "aquaticodyssey:stripped_mangrove_wood"
+    ]
+  },
+  "criteria": {
+    "has_log": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "aquaticodyssey:stripped_mangrove_log"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "aquaticodyssey:stripped_mangrove_wood"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_log",
+      "has_the_recipe"
+    ]
+  ]
+}

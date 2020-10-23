@@ -1,0 +1,21 @@
+{
+  "itemGroup.aquaticodysseytab": "Aquatic Odyssey Tab",
+
+  "item.aquaticodyssey.kelp_shake": "Kelp Shake",
+
+  "block.aquaticodyssey.mangrove_sapling": "Mangrove Sapling",
+  "block.aquaticodyssey.mangrove_leaves": "Mangrove Leaves",
+  "block.aquaticodyssey.mangrove_log": "Mangrove Log",
+  "block.aquaticodyssey.mangrove_wood": "Mangrove Wood",
+  "block.aquaticodyssey.stripped_mangrove_wood": "Stripped Mangrove Wood",
+  "block.aquaticodyssey.stripped_mangrove_log": "Stripped Mangrove Log",
+  "block.aquaticodyssey.mangrove_planks": "Mangrove Planks",
+  "block.aquaticodyssey.mangrove_slab": "Mangrove Slab",
+  "block.aquaticodyssey.mangrove_stairs": "Mangrove Stairs",
+  "block.aquaticodyssey.mangrove_fence": "Mangrove Fence",
+  "block.aquaticodyssey.mangrove_fence_gate": "Mangrove Fence Gate",
+  "block.aquaticodyssey.mangrove_button": "Mangrove Button",
+  "block.aquaticodyssey.mangrove_pressure_plate": "Mangrove Pressure Plate",
+  "block.aquaticodyssey.mangrove_trapdoor": "Mangrove Trapdoor",
+  "block.aquaticodyssey.mangrove_door": "Mangrove Door"
+}

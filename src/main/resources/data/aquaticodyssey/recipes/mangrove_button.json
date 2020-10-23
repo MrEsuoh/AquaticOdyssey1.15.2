@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "aquaticodyssey:mangrove_planks"
+    }
+  ],
+  "result": {
+    "item": "aquaticodyssey:mangrove_button"
+  }
+}
