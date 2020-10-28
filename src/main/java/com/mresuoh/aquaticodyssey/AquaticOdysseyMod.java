@@ -2,6 +2,7 @@ package com.mresuoh.aquaticodyssey;
 
 import com.mresuoh.aquaticodyssey.init.BlockInit;
 import com.mresuoh.aquaticodyssey.init.ItemInit;
+import com.mresuoh.aquaticodyssey.init.ModEntityTypes;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
@@ -35,6 +36,7 @@ public class AquaticOdysseyMod
 
         ItemInit.ITEMS.register(modEventBus);
         BlockInit.BLOCKS.register(modEventBus);
+        ModEntityTypes.ENTITY_TYPES.register(modEventBus);
 
         instance = this;
         MinecraftForge.EVENT_BUS.register(this);
